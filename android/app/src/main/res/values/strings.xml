@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">bonalukicthen </string>
+    <string name="title_activity_main">bonalukicthen </string>
+    <string name="package_name">com.santosh.bonalukicthen</string>
+    <string name="custom_url_scheme">com.santosh.bonalukicthen</string>
+</resources>
